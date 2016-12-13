@@ -27,8 +27,6 @@ case "🐈":
 return "Cat"
 case "🐢":
 return "Turtle"
-case "🍕":
-return "Pizza"
 case "👻":
 return "Ghost"
 default:
